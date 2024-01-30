@@ -1,5 +1,6 @@
-const start = async () => {
-    console.log("hello world")
+
+const start = () => {
+    console.log('hello world')
 }
 
-start();
+start()
